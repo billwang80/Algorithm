@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1559669893 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\lab2\lab2_drones_manager.cpp
+	"lab2_drones_manager.h"
+
+1559669924 c:\users\armab\onedrive\desktop\coding\mte140\assignment1\lab2\lab2_drones_manager.h
+
+1559669899 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\lab2\main.cpp
+	<iostream>
+
+1560879740 source:c:\users\armab\onedrive\desktop\coding\mte140\lab2\lab2_drones_manager.cpp
+	"lab2_drones_manager.hpp"
+
+1559670625 c:\users\armab\onedrive\desktop\coding\mte140\lab2\lab2_drones_manager.h
+	<string>
+
+1559670677 c:\users\armab\onedrive\desktop\coding\mte140\lab2\lab2_drones_manager.hpp
+	<string>
+
+1559670811 source:c:\users\armab\onedrive\desktop\coding\mte140\lab2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"lab2_drones_manager_test.hpp"
+
+1560885552 c:\users\armab\onedrive\desktop\coding\mte140\lab2\lab2_drones_manager_test.hpp
+	"lab2_drones_manager.hpp"
+
