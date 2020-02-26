@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1558450752 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\main.cpp
+	<iostream>
+
+1558450725 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\polynomial.cpp
+	"Polynomial.h"
+
+1558462808 c:\users\armab\onedrive\desktop\coding\mte140\assignment1\polynomial.h
+	<vector>
+
+1558472593 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\lab1_polynomial1.cpp
+	"lab1_polynomial1.h"
+	<vector>
+	<cstdlib>
+	<string>
+	<cmath>
+
+1558469892 c:\users\armab\onedrive\desktop\coding\mte140\assignment1\lab1_polynomial1.h
+	<string>
+	<cstdlib>
+	<vector>
+

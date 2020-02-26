@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1559068325 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\polynomial\main.cpp
+	<cstdlib>
+	<sys/types.h>
+	<cmath>
+	"Polynomial.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+
+1558547704 c:\users\armab\onedrive\desktop\coding\mte140\assignment1\polynomial\polynomial.h
+	<cstdlib>
+	<sys/types.h>
+	<cmath>
+	"Polynomial.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<time.h>
+
+1559069527 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\polynomial\polynomial.cpp
+	<cstdlib>
+	<sys/types.h>
+	<cmath>
+	"Polynomial.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<time.h>
+
