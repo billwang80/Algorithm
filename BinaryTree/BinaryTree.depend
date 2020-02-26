@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1561484144 source:c:\users\armab\downloads\lab3_starter_code_mte\lab3_binary_search_tree.cpp
+	<iostream>
+	"lab3_binary_search_tree.hpp"
+
+1561484144 c:\users\armab\downloads\lab3_starter_code_mte\lab3_binary_search_tree.hpp
+	<string>
+
+1561484144 source:c:\users\armab\downloads\lab3_starter_code_mte\lab3_main.cpp
+	<iostream>
+	<string>
+	"lab3_tests.hpp"
+
+1561484144 c:\users\armab\downloads\lab3_starter_code_mte\lab3_tests.hpp
+	<algorithm>
+	<sstream>
+	<queue>
+	"lab3_priority_queue.hpp"
+	"lab3_binary_search_tree.hpp"
+
+1561484144 c:\users\armab\downloads\lab3_starter_code_mte\lab3_priority_queue.hpp
+	<string>
+
+1561485165 source:c:\users\armab\downloads\lab3_starter_code_mte\lab3_priority_queue.cpp
+	"lab3_priority_queue.hpp"
+	<iostream>
+
+1514144174 source:c:\users\armab\onedrive\desktop\coding\mte140\assignment1\binarytree\main.cpp
+	<iostream>
+
+1561484144 source:c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_binary_search_tree.cpp
+	<iostream>
+	"lab3_binary_search_tree.hpp"
+
+1561484144 c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_binary_search_tree.hpp
+	<string>
+
+1561484144 source:c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_main.cpp
+	<iostream>
+	<string>
+	"lab3_tests.hpp"
+
+1561484144 c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_tests.hpp
+	<algorithm>
+	<sstream>
+	<queue>
+	"lab3_priority_queue.hpp"
+	"lab3_binary_search_tree.hpp"
+
+1561484144 c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_priority_queue.hpp
+	<string>
+
+1561487159 source:c:\users\armab\onedrive\desktop\coding\mte140\binarytree\lab3_priority_queue.cpp
+	"lab3_priority_queue.hpp"
+	<iostream>
+
